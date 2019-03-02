@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nosql on belchak.com</title>
+    <link>https://belchak.com/categories/nosql/</link>
+    <description>Recent content in Nosql on belchak.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 07 Feb 2011 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://belchak.com/categories/nosql/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>unit testing django with a nosql backend</title>
+      <link>https://belchak.com/post/2011/02/07/unit-testing-django-with-a-nosql-backend/</link>
+      <pubDate>Mon, 07 Feb 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://belchak.com/post/2011/02/07/unit-testing-django-with-a-nosql-backend/</guid>
+      <description>In my previous post about unit testing for django, I laid the groundwork for how to unit test any django application. One nice feature that django includes with its test framework is the test database syncing. Even better is if you are using South to do database migrations - it will run the migrations in your test environment for you.
+However, what if you are using a NoSQL database backend like MongoDB, Cassandra, CouchDB or something similar and you aren&amp;rsquo;t using the Django ORM?</description>
+    </item>
+    
+  </channel>
+</rss>

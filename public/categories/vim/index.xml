@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vim on belchak.com</title>
+    <link>https://belchak.com/categories/vim/</link>
+    <description>Recent content in Vim on belchak.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 31 Jan 2011 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://belchak.com/categories/vim/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>code completion for python and django in vim</title>
+      <link>https://belchak.com/post/2011/01/31/code-completion-for-python-and-django-in-vim/</link>
+      <pubDate>Mon, 31 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://belchak.com/post/2011/01/31/code-completion-for-python-and-django-in-vim/</guid>
+      <description>VIM has been my editor of choice for at least 15 years. I love how fast I can edit files, perform menial tasks, and wreak general havoc on any code project I am working on at any given moment. One of the things that I have missed about VIM from an IDE perspective has been code completion (a.k.a. &amp;ldquo;IntelliSense&amp;rdquo;). I have spent a lot of time on websites and man pages trying to figure out syntax and function names for several types of languages, and just recently discovered a long-included feature of VIM called omni completion, or Omnicomplete.</description>
+    </item>
+    
+  </channel>
+</rss>

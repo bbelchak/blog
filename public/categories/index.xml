@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on belchak.com</title>
+    <link>https://belchak.com/categories/</link>
+    <description>Recent content in Categories on belchak.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 27 Jul 2011 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://belchak.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Apple</title>
+      <link>https://belchak.com/categories/apple/</link>
+      <pubDate>Wed, 27 Jul 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://belchak.com/categories/apple/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Django</title>
+      <link>https://belchak.com/categories/django/</link>
+      <pubDate>Mon, 07 Feb 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://belchak.com/categories/django/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graphite</title>
+      <link>https://belchak.com/categories/graphite/</link>
+      <pubDate>Thu, 02 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://belchak.com/categories/graphite/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jira</title>
+      <link>https://belchak.com/categories/jira/</link>
+      <pubDate>Sat, 21 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://belchak.com/categories/jira/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leadership</title>
+      <link>https://belchak.com/categories/leadership/</link>
+      <pubDate>Thu, 21 Apr 2016 21:05:17 +0100</pubDate>
+      
+      <guid>https://belchak.com/categories/leadership/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Management</title>
+      <link>https://belchak.com/categories/management/</link>
+      <pubDate>Sun, 28 Feb 2016 11:49:30 +0000</pubDate>
+      
+      <guid>https://belchak.com/categories/management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mongodb</title>
+      <link>https://belchak.com/categories/mongodb/</link>
+      <pubDate>Thu, 20 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://belchak.com/categories/mongodb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nix</title>
+      <link>https://belchak.com/categories/nix/</link>
+      <pubDate>Thu, 27 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://belchak.com/categories/nix/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nosql</title>
+      <link>https://belchak.com/categories/nosql/</link>
+      <pubDate>Mon, 07 Feb 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://belchak.com/categories/nosql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Personal</title>
+      <link>https://belchak.com/categories/personal/</link>
+      <pubDate>Thu, 21 Apr 2016 21:05:17 +0100</pubDate>
+      
+      <guid>https://belchak.com/categories/personal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Productivity</title>
+      <link>https://belchak.com/categories/productivity/</link>
+      <pubDate>Thu, 21 Apr 2016 21:05:17 +0100</pubDate>
+      
+      <guid>https://belchak.com/categories/productivity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://belchak.com/categories/python/</link>
+      <pubDate>Fri, 24 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://belchak.com/categories/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sensu</title>
+      <link>https://belchak.com/categories/sensu/</link>
+      <pubDate>Thu, 02 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://belchak.com/categories/sensu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Technology</title>
+      <link>https://belchak.com/categories/technology/</link>
+      <pubDate>Sat, 21 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://belchak.com/categories/technology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vim</title>
+      <link>https://belchak.com/categories/vim/</link>
+      <pubDate>Mon, 31 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://belchak.com/categories/vim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Work</title>
+      <link>https://belchak.com/categories/work/</link>
+      <pubDate>Fri, 04 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://belchak.com/categories/work/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

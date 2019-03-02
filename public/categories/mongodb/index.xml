@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mongodb on belchak.com</title>
+    <link>https://belchak.com/categories/mongodb/</link>
+    <description>Recent content in Mongodb on belchak.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 20 Jan 2011 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://belchak.com/categories/mongodb/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>automatic mongodb backups to s3</title>
+      <link>https://belchak.com/post/2011/01/20/automatic-mongodb-backups-to-s3/</link>
+      <pubDate>Thu, 20 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://belchak.com/post/2011/01/20/automatic-mongodb-backups-to-s3/</guid>
+      <description>One of the big problems with hosting your own database solution is that you have to do backups for it on a regular basis. Not only do you need to do backups for it, but you need to also keep backups offsite. Luckily, Amazon S3 allows a cheap and easy solution for your offsite backups.
+I found a shell script solution for handling MongoDB backups, but it only does local backups.</description>
+    </item>
+    
+  </channel>
+</rss>

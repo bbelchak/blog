@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jira on belchak.com</title>
+    <link>https://belchak.com/categories/jira/</link>
+    <description>Recent content in Jira on belchak.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 21 Jan 2012 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://belchak.com/categories/jira/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>jira and campfire integration</title>
+      <link>https://belchak.com/post/2012/01/21/jira-and-campfire-integration/</link>
+      <pubDate>Sat, 21 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://belchak.com/post/2012/01/21/jira-and-campfire-integration/</guid>
+      <description>I have been working on migrating my company&amp;rsquo;s Pivotal Tracker to JIRA. We love most of the features of JIRA, but we were really missing the nice updates to our Campfire room to tell us what is going on with our issues.
+Sure, we could use an RSS feed plugin for Campy, but that is not real-time enough.
+I didn&amp;rsquo;t want to write a huge plugin just to send messages to Campfire (it seems like such a simple thing to do!</description>
+    </item>
+    
+  </channel>
+</rss>
