@@ -1,7 +1,6 @@
 ---
 title: "About Me"
 date: 2019-03-02T20:06:46Z
-draft: true
 menu: "main" #Display this page on the nav menu
 weight: "30" #Right-most nav item
 meta: "false" #Do not display tags or categories
