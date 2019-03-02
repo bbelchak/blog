@@ -1,7 +1,7 @@
 +++
 title = "Why I’m giving up Facebook"
-date = "2019-03-02T23:24:33Z"
-slug = "why%20i%E2%80%99m%20giving%20up%20facebook.md"
+date = "2019-03-02"
+slug = "why%20i%E2%80%99m%20giving%20up%20facebook"
 +++
 Starting Wednesday, I’m shutting down my connection to Facebook for the next few months and drastically cutting back on my usage of other social networks (especially Reddit). I’m looking forward to digitally “detoxing” and strengthening the connections I have with friends and family, and maybe even making some new ones. I’m looking forward to using my time more wisely and investing in new skills and habits. I want to stay connected, but I want to do it personally and intimately. If you would like to stay in touch, please feel free to WhatsApp or iMessage me, or send me an email at ben@belchak.com. If you’re in London, let’s grab a pint!
 
