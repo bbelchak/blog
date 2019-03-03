@@ -8,7 +8,7 @@ disqusShortname = "belchakcom"
 [params]
   contentTypeName = "post"
   themeColor = "green"
-  showMenuItems = 2
+  showMenuItems = 4
   fullWidthTheme = false
   centerTheme = true
 
