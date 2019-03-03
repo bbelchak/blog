@@ -1,4 +1,4 @@
-baseurl = "http://www.belchak.com/"
+baseurl = "https://www.belchak.com/"
 languageCode = "en-us"
 theme = "terminal"
 paginate = 5
