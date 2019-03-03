@@ -1,60 +1,43 @@
-baseurl = "https://www.belchak.com"
+baseurl = "https://www.belchak.com/"
 languageCode = "en-us"
-Title = "Belchak.com"
-# Copyright notice. This is displayer in the footer.
-copyright = "&copy; Copyright 2019, Ben Belchak"
-custom_css = "/static/css/custom.css"
-theme = "pickles"
+theme = "terminal"
+paginate = 5
+googleAnalytics = "UA-20863470-1"
+disqusShortname = "belchakcom"
 
 [params]
-  paginate = 10
-  # Social accounts. Link to these accounts are displayed in the header and
-  # footer
-  twitter = "BenBelchak"
-  flickr = "bbelchak"
-  linkedin = "belchak"
-  # Disqus shortname
-  disqus = "belchakcom"
-  # Google Analytics API key.
-  ga_api_key = "UA-20863470-1"
-  author = "Ben Belchak"
-  authorwebsite = "belchak.com"
-  avatar = "/path/to/avatar"
-  contact = "mailto:ben@belchak.com"
-  # Short subtitle/tagline. This is displayed in the header.
-  subtitle = "A blog"
+  contentTypeName = "post"
+  themeColor = "green"
+  showMenuItems = 2
+  fullWidthTheme = false
+  centerTheme = true
 
-[[menu.main]]
-    name = "Blog"
-    url = "/"
-    weight = 1
+[languages]
+  [languages.en]
+    title = "belchak.com"
+    subtitle = "A blog"
+    keywords = ""
+    copyright = ""
+    menuMore = "Show more"
+    readMore = "Read more"
+    readOtherPosts = "Read other posts"
 
-[[menu.main]]
-    name = "Tags"
-    url = "/tags"
-    weight = 4
+    [languages.en.params.logo]
+      logoText = "belchak.com"
+      logoHomeLink = "/"
 
-[related]
-  # Only include matches with rank >= threshold. This is a normalized rank between 0 and 100.
-  threshold = 80
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "posts"
+        name = "Posts"
+        url = "/post"
 
-  # To get stable "See also" sections we, by default, exclude newer related pages.
-  includeNewer = false
-
-  # Will lower case keywords in both queries and in the indexes.
-  toLower = false
-
-  [[related.indices]]
-  name = "keywords"
-  weight = 150
-  [[related.indices]]
-  name  = "author"
-  toLower = true
-  weight = 30
-  [[related.indices]]
-  name  = "tags"
-  weight = 100
-  [[related.indices]]
-  name  = "date"
-  weight = 10
-  pattern = "2017"
+      [[languages.en.menu.main]]
+        identifier = "categories"
+        name = "Categories"
+        url = "/categories"
+    
+      [[languages.en.menu.main]]
+        identifier = "tags"
+        name = "Tags"
+        url = "/tags"
