@@ -2,6 +2,7 @@ baseurl = "https://www.belchak.com/"
 languageCode = "en-us"
 theme = "terminal"
 paginate = 5
+googleAnalytics = "UA-20863470-1"
 
 [params]
   contentTypeName = "post"
