@@ -1,3 +1,9 @@
 [submodule "blog/themes/terminal"]
 	path = blog/themes/terminal
 	url = https://github.com/panr/hugo-theme-terminal.git
+[submodule "themes/potato-dark"]
+	path = themes/potato-dark
+	url = https://github.com/surajmandalcell/potato-dark
+[submodule "themes/pickles"]
+	path = themes/pickles
+	url = https://github.com/mismith0227/hugo_theme_pickles
