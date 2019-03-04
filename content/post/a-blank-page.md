@@ -2,6 +2,7 @@
 title = "a blank page"
 date = "2019-03-04"
 slug = "2019/03/04/a-blank-page"
+Categories = ["writing", "self-improvement"]
 +++
 A blank page is scary. It is filled with possibility, but sometimes it’s really hard to know where to start. Maybe this is why I struggle with a lot of the writing-related tasks that I have at work; because the page is always blank when I start. I focus more on that blank page and how big of a task it is to get some of these big ideas out of my head and onto paper that I struggle to get anything out at all. I have some ideas about how to make the blank page less scary:
 
