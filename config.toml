@@ -11,6 +11,9 @@ themeColor = "green"
 showMenuItems = 4
 fullWidthTheme = false
 centerTheme = true
+readingTime = true
+showLanguageSelector = false
+
 
 [languages]
 [languages.en]
