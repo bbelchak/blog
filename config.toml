@@ -16,7 +16,7 @@ centerTheme = true
 [languages.en]
 title = "belchak.com"
 subtitle = "A blog"
-keywords = ""
+keywords = "blog"
 copyright = "&copy; Copyright Ben Belchak"
 menuMore = "Show more"
 readMore = "Read more"
